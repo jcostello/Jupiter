@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Jupiter::VERSION
   spec.authors       = ["Juan Manuel Costello"]
   spec.email         = ["sudo.juan@gmail.com"]
-  spec.summary       = ""
-  spec.description   = ""
-  spec.homepage      = ""
+  spec.summary   = "This is a awesome gem that allow you to get the forecast of any city you want"
+  spec.description   = "This is a awesome gem that allow you to get the forecast of any city you want"
+  spec.homepage      = "https://github.com/jcostello/Jupiter"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
